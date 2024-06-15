@@ -1,0 +1,3 @@
+class FNTextTheme {
+  FNTextTheme._();
+}
