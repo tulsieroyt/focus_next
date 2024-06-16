@@ -2,15 +2,11 @@
 
 A Daily Task Manager App.
 
-## Getting Started
+##  Screenshots
+<img src="https://github.com/tulsieroyt/focus_next/assets/128843282/760428ac-30f9-4759-9c72-b1aff7cd1208" alt="Splash Screen" width="300">
+<img src="https://github.com/tulsieroyt/focus_next/assets/128843282/dcc17d47-5352-4fdc-b01b-ce8ecb086a97" alt="Splash Screen" width="300">
+<img src="https://github.com/tulsieroyt/focus_next/assets/128843282/c0538799-3bd4-4c76-aefd-9c90577c7ac3" alt="Splash Screen" width="300">
+<img src="https://github.com/tulsieroyt/focus_next/assets/128843282/3d708ea5-3e1a-4c22-b3c4-64d6f1fefae0" alt="Splash Screen" width="300">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feedback
+If you have any feedback, please reach out to us at tulsieroyt@gmail.com
